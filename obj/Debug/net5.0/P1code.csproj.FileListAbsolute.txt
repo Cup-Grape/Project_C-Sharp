@@ -1,0 +1,16 @@
+C:\Users\Felip\Desktop\C#\P1code\bin\Debug\net5.0\P1code.exe
+C:\Users\Felip\Desktop\C#\P1code\bin\Debug\net5.0\P1code.deps.json
+C:\Users\Felip\Desktop\C#\P1code\bin\Debug\net5.0\P1code.runtimeconfig.json
+C:\Users\Felip\Desktop\C#\P1code\bin\Debug\net5.0\P1code.runtimeconfig.dev.json
+C:\Users\Felip\Desktop\C#\P1code\bin\Debug\net5.0\P1code.dll
+C:\Users\Felip\Desktop\C#\P1code\bin\Debug\net5.0\ref\P1code.dll
+C:\Users\Felip\Desktop\C#\P1code\bin\Debug\net5.0\P1code.pdb
+C:\Users\Felip\Desktop\C#\P1code\obj\Debug\net5.0\P1code.csprojAssemblyReference.cache
+C:\Users\Felip\Desktop\C#\P1code\obj\Debug\net5.0\P1code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felip\Desktop\C#\P1code\obj\Debug\net5.0\P1code.AssemblyInfoInputs.cache
+C:\Users\Felip\Desktop\C#\P1code\obj\Debug\net5.0\P1code.AssemblyInfo.cs
+C:\Users\Felip\Desktop\C#\P1code\obj\Debug\net5.0\P1code.csproj.CoreCompileInputs.cache
+C:\Users\Felip\Desktop\C#\P1code\obj\Debug\net5.0\P1code.dll
+C:\Users\Felip\Desktop\C#\P1code\obj\Debug\net5.0\ref\P1code.dll
+C:\Users\Felip\Desktop\C#\P1code\obj\Debug\net5.0\P1code.pdb
+C:\Users\Felip\Desktop\C#\P1code\obj\Debug\net5.0\P1code.genruntimeconfig.cache
